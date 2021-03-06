@@ -15,3 +15,10 @@ For instructions on how to build lotus from source, please visit [https://docs.l
 ## License
 
 Dual-licensed under [MIT](https://github.com/filecoin-project/lotus/blob/master/LICENSE-MIT) + [Apache 2.0](https://github.com/filecoin-project/lotus/blob/master/LICENSE-APACHE)
+
+
+v1.5.0_5.4.1_1.0.3_prod
+工程	Tag	备注
+lotus	v1.5.0_5.4.1_1.0.3	修改日志等级
+filecoin-ffi	v1.5.0_5.4.1	upgrade to 1.5.0
+rust-fil-proofs	v5.4.0_1.0.1	upgrade to 1.5.0
